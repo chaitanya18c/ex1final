@@ -140,7 +140,8 @@ endmodule
 
 
 ## Timing Diagram:
-![image](https://github.com/chaitanya18c/ex1final/assets/119392724/06974ab5-8862-468b-9e51-1fd344b5c3c1)
+![image](https://github.com/chaitanya18c/ex1final/assets/119392724/109e1d7d-be53-4775-b284-447c17c8f40e)
+
 
 
 
